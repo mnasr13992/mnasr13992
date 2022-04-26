@@ -1,8 +1,8 @@
 <h2> Hi there, I’m Mahmoud Nasr 👋:heart: </h2>
 
 - Software Engineer
-- Graphic Designer for 1 year
 - Flutter Developer for 2 years and half
+- Graphic Designer for 1 year
 
 <h2> Contact with me on </h2>
 
