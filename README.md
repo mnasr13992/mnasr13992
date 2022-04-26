@@ -2,8 +2,7 @@
 
 - Software Engineer
 - Graphic Designer for 1 year
-- Flutter Developer for 3 years
-- Basic Knowledge In Native Kotlin Development
+- Flutter Developer for 2 years and half
 
 <h2> Contact with me on </h2>
 
