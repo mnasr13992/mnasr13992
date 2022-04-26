@@ -46,3 +46,27 @@ Jewelers is distinguished as the program that attracts the interest of all jewel
 <p><a href="https://play.google.com/store/apps/details?id=jewelersqa.com" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <a href="https://apps.apple.com/us/app/jewelers/id1563443197" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
 
 <hr>
+
+### FibersClub
+FibersClub Gym Application to manage and reserve Workout & Class.
+<p><a href="https://play.google.com/store/apps/details?id=com.mahmoudnasr.gymreservation&hl=ar&gl=US" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <a href="https://apps.apple.com/us/app/fibersclub/id1518119129" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
+
+<hr>
+
+### Maxia - ماكسيا
+Maxia Lifestyle Assistant
+A Complete Fitness, workout and nutrition plans based on latest scientific researches are specially designed for you
+A game and you are always the winner
+Be fit with our Intelligent and dedicated Assistant to follow your workout and diet routines
+Our programs are specially designed for all ages, genders & Different categories to fulfill all your medical and special needs
+.
+<p><a href="https://play.google.com/store/apps/details?id=com.gym.maxia" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <a href="https://apps.apple.com/eg/app/maxia/id1487660768" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
+
+<hr>
+
+### Easy Sanawy
+Easy Sanawy is an educational platform that contains Sanawy courses.
+<p><a href="https://play.google.com/store/apps/details?id=com.sos.easysanawy" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <a href="https://apps.apple.com/us/app/easysanawy-%D8%A5%D9%8A%D8%B2%D9%8A-%D8%AB%D8%A7%D9%86%D9%88%D9%8A/id1547187357" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
+
+<hr>
+
