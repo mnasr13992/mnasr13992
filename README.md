@@ -2,7 +2,7 @@
 
 - Software Engineer
 - Flutter Developer for 2 years and half
-- Graphic Designer for 1 year
+- Graphic Designer for more than a year
 
 <h2> Contact with me on </h2>
 
