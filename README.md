@@ -1,7 +1,7 @@
 <h2> Hi there, I’m Mahmoud Nasr 👋:heart: </h2>
 
 - Software Engineer
-- Flutter Developer for 2 years and half
+- Flutter Developer for 3 years
 - Graphic Designer for more than a year
 
 <h2> Contact with me on </h2>
@@ -42,8 +42,35 @@ Golds Gym Elite San Stefano is an app made for the well known gym one of its bra
 <hr>
 
 ### Wellvive
-Golds Gym Elite San Stefano is an app made for the well known gym one of its branches in alex to allow user book or cancel session, see a lot of personal statistics and much more.
+Wellvive is your one-stop app for all your well-being needs. Get connected to the whole
+world of well-being from wherever suits you, and always find a way to fit your health in your
+schedule no matter how busy it is.
+Wellvive provides you with exclusive access to:
+✅ Fitness coaches
+✅ Wellbeing experts
+✅ Nutritionists
+✅ Personalized workout plans
+✅ Personalized meal plans
+✅ Online workshops and sessions
+✅ Group events
+✅ Online shop for all your well-being needs
+And more!
+Download Wellvive today, and change your lifestyle without changing your life. It’s that easy.
 <p><a href="https://play.google.com/store/apps/details?id=com.redgits.fitness.user" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <a href="https://apps.apple.com/app/wellvive/id1639688363" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
+
+<hr>
+
+### Wellvive Provider
+Get the exposure you deserve on the Wellvive app and take your wellness career to the next level.
+Join Wellvive as a nutrition, fitness, or wellness partner and gain exposure with thousands of users right from the app. Through the app, you can easily:
+✅ Book appointments and live sessions with your customers
+✅ Offer all of your services as a nutritionist, fitness coach, or well-being expert
+✅ Create and give your customers access to nutrition plans
+✅ Create and give your customers access to workout plans
+✅ Create events and retreats for your customers
+✅ Track and organize all of your appointments
+Start and/or grow your well-being career today: it’s easier than ever with Wellvive Partner.
+<p><a href="https://play.google.com/store/apps/details?id=com.redgits.fitness.provider" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <a href="https://apps.apple.com/app/wellvive/id1639532208" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
 
 <hr>
 
