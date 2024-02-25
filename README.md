@@ -1,4 +1,4 @@
-<h2> Hi there, I’m Mahmoud Nasr 👋:heart: </h2>
+<h2> Hi there, I’m Mahmoud Nasr 👋 </h2>
 
 - Software Engineer
 - Flutter Developer for 3 years
